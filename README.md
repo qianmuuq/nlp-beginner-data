@@ -7,7 +7,7 @@
 | Logistic regression | 51.75 | 71.50 |
 | Softmax regression | 48.50 | 71.25 |
 
-Softmax regression为自己写的，Logistics regression为sklean库函数，有很大差距
+Softmax regression为自己写的，Logistics regression为sklearn库函数，有很大差距
 
 ### 任务二：基于深度学习的文本分类
 
