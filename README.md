@@ -16,6 +16,8 @@ Softmax regression为自己写的，Logistics regression为sklearn库函数，�
 | CNN | 65.07 | 64.01 |
 | RNN | 67.67 | 66.35 |
 
+结果基于Glove-50d
+
 ### 任务三：基于注意力机制的文本匹配
 
 | Model     | Dev accuracy | Test accuracy |
@@ -24,6 +26,8 @@ Softmax regression为自己写的，Logistics regression为sklearn库函数，�
 | Attention | 59.24 | 56.67 |
 | Word-by-word Attention | 59.07 | 55.99 |
 | ESIM | 59.88 | 57.72 |
+
+结果基于Glove-50d
 
 ### 任务四：基于LSTM+CRF的序列标注
 
