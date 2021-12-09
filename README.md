@@ -13,8 +13,8 @@ Softmax regression为自己写的，Logistics regression为sklearn库函数，�
 
 | Model     | Dev accuracy | Test accuracy |
 | :---:     | :---:        | :---:         |
-| CNN | 65.07 | 64.01 |
-| RNN | 67.67 | 66.35 |
+| CNN | 65.95 | 65.64 |
+| RNN | 67.37 | 67.00 |
 
 结果基于Glove-50d
 
