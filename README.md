@@ -4,8 +4,8 @@
 
 | Model     | Dev accuracy | Test accuracy |
 | :---:     | :---:        | :---:         |
-| Logistic regression | 51.75 | 71.50 |
-| Softmax regression | 48.50 | 71.25 |
+| Logistic regression | 51.75 | 48.50 |
+| Softmax regression | 71.50 | 71.25 |
 
 Softmax regression为自己写的，Logistics regression为sklearn库函数，有很大差距
 
